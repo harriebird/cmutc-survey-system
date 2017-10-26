@@ -1,0 +1,34 @@
+body {
+  background-color: #00c853;
+  background-image: url('../img/background.png');
+  background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.container {
+  background-color: #e0f7fa;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+#header {
+  margin-bottom: 0;
+  background-color: #2780E3;
+}
+
+.lblue-form {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #B3E5FC;
+}
+
+.ann-sum {
+  text-overflow: ellipsis;
+  height: 60px;
+  overflow:hidden;
+}
