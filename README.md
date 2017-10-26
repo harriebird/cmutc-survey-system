@@ -1,6 +1,5 @@
 # cmutc-survey-system
-A survey system personalized for Central Mindanao University Tutorial Club
-My Project in Database Administration and Web Development
+A survey system personalized for Central Mindanao University Tutorial Club. Project submitted for Database Administration and Web Development subjects.
 
 Installation Instructions:
 1. Extract the package into a web directory.
